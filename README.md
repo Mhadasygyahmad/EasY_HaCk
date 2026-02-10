@@ -14,7 +14,7 @@ all that on Termux
 pkg update
 pkg upgrade
 Download installation file (install.sh) from this link
-chmod +x install.sh
+chmod +x install.sh011343
 EasY-HaCk
 
 ![](.modules/EasY_HaCk.png)
